@@ -34,7 +34,7 @@ def getbucket(bucket_id):
     host="localhost",
     port=3306, 
     user="root",
-    password="f32f8491123f20f2",
+    password="",
     database="c3server_v3",
     charset="utf8mb4" 
     )

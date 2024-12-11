@@ -21,23 +21,9 @@ query_pre_time_list = []
 server_time_list = []
 total_time_list = []
 
-username_list = ["00010202002102201@jhouh.com","0007.oza@mail.ru","007taz@bellsouth.com",
-                 "0102469m@student.gla.ac.uk","013693@gmail.com","01hunter122@mail.ru",
-                 "02rita02@excite.com","04SUS1980@mail.ru","070383af@mail.ru",
-                 "07091990@homemail.com","071e3g_k6pjd14l@pochta.ru","073eustacebotellio1986251@rambler.ru",
-                 "08.nova@live.fr","0810@dasd12363.com","082106331@sxmail.de",
-                 "08lobach@rambler.ru","092483@snakebite.com","093tp@yandex.ru",
-                 "09bpf@williams.edu","09liliya031@rambler.ru","0VV22L@126.com",
-                 "594515032@qq.com","5magam5@yandex.ru","605650062@tianya.cn","LEATHAANUM@YAHOO.NO"
+username_list = [
                  ]
-passwords_list = ["footy1","sadela","clemson24",
-                  "p131sus","2505Vika","1993gavr",
-                  "lanceton02","WER97979797","9273469111",
-                  "hardyboys1990","8x1KDv3sZ","ezmriuE1",
-                  "zeqohuby","l639955","ansitanq12",
-                  "201020111654op","idgoldenproperties","tuchkoFf83",
-                  "griffey69", "nfnfhcrbq", "0VV22L",
-                  "q594515032", "shokolad5", "lq19910629", "lars3r1"
+passwords_list = [
                   ]
 
 # 源代码的操作   返回bytes型，长度32

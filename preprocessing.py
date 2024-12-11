@@ -191,7 +191,7 @@ def create_bucket(bucket_id):
         host="123.249.27.168",
         port=3306,
         user="root", 
-        password="f32f8491123f20f2",
+        password="",
         database="c3server_V3",
         charset="utf8mb4"
     )
@@ -221,7 +221,7 @@ def checkBucketExists(bucket_id):
         host="123.249.27.168",
         port=3306,
         user="root", 
-        password="f32f8491123f20f2",
+        password="",
         database="c3server_V3",
         charset="utf8mb4"
     ) 
@@ -254,7 +254,7 @@ def checkMaxId(bucket_id):
         host="123.249.27.168",
         port=3306,
         user="root", 
-        password="f32f8491123f20f2",
+        password="",
         database="c3server_V3",
         charset="utf8mb4"
     )
@@ -281,7 +281,7 @@ def insert_credentials(bucket_id, inserteddata):
         host="123.249.27.168",
         port=3306,
         user="root", 
-        password="f32f8491123f20f2",
+        password="",
         database="c3server_V3",
         charset="utf8mb4"
     ) 
@@ -309,7 +309,7 @@ def create_honeychecker(bucket_id, inserteddata):
         host="localhost",
         port=3306,
         user="root",
-        password="17bfdb4bd2cf3b28",
+        password="",
         database="honeychecker_V3",
         charset="utf8mb4"
     )

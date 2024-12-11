@@ -7,7 +7,7 @@ def get_data():
         host="127.0.0.1",
         port=3306, 
         user="root",
-        password="17bfdb4bd2cf3b28",
+        password="",
         database="counter_schedule",
         charset="utf8mb4" 
         )
@@ -35,7 +35,7 @@ def set_zero():
         host="127.0.0.1",
         port=3306, 
         user="root",
-        password="17bfdb4bd2cf3b28",
+        password="",
         database="counter_schedule",
         charset="utf8mb4" 
         )
@@ -62,7 +62,7 @@ def get_client_ip():
         host="127.0.0.1",
         port=3306, 
         user="root",
-        password="17bfdb4bd2cf3b28",
+        password="",
         database="visitip",
         charset="utf8mb4" 
         )
@@ -92,7 +92,7 @@ def drop_table():
         host="127.0.0.1",
         port=3306, 
         user="root",
-        password="17bfdb4bd2cf3b28",
+        password="",
         database="visitip",
         charset="utf8mb4" 
         )
@@ -116,7 +116,7 @@ def create_ip_table():
         host="127.0.0.1",
         port=3306, 
         user="root",
-        password="17bfdb4bd2cf3b28",
+        password="",
         database="visitip",
         charset="utf8mb4" 
         )

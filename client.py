@@ -78,7 +78,7 @@ print(resp)
 if server_response == "no bucket":
     print("none")
 else:
-    client_static_private_key = 77431548113892569235645324822290678930730337342509581216943487203749942232105    
+    client_static_private_key =     
     client = HMQV(True, client_static_private_key) 
 
     client_static_private = client.get_static_private_key()    
